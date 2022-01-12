@@ -1,0 +1,33 @@
+.Header{
+    height: 40px;
+    padding: 20px;
+    background: blue;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.navActive{
+    color: rgb(255, 136, 0);
+    margin-inline: 20px;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-weight: bold;
+    border: 2px solid rgb(255, 136, 0);
+    padding:5px;
+    padding-inline: 10px;
+    border-radius:10px;
+
+
+}
+.nav{
+    color:white;
+    margin-inline: 20px;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-weight: bold;
+    padding:5px;
+    padding-inline: 10px;
+
+}
